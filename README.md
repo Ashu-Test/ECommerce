@@ -73,6 +73,17 @@ A model e-commerce web application made entirely using *JAVA* as back-end applyi
 
  <img src="https://user-images.githubusercontent.com/69616825/93710228-97c72900-fb62-11ea-849a-c63f4950cab9.gif" width="950" height="450" />
 
+* Admin can also delete or update existing Categories
+
+
+ <img src="https://user-images.githubusercontent.com/69616825/93710819-f7bfce80-fb66-11ea-8f04-98803e0bfad7.gif" width="950" height="450" />
+
+
+* Admin can also delete or update existing  Products
+ <img src="https://user-images.githubusercontent.com/69616825/93710726-694b4d00-fb66-11ea-8971-48d7b6e198e9.gif" width="950" height="450" />
+
+*  404 Error 
+<img src="https://user-images.githubusercontent.com/69616825/93710919-c4ca0a80-fb67-11ea-8037-86e3af21e0fe.gif" width="950" height="450" />
 
 
 ## License :rocket:
